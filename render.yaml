@@ -1,7 +1,10 @@
 services:
   - type: web
-    name: rag-backend
-    runtime: python
-    buildCommand: ""
-    startCommand: python app.py
+    name: my-app
     env: python
+    plan: free
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python app.py"
+    envVars:
+      - key: PORT
+        value: "5000"  # Example of setting port to 5000
