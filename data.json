@@ -1,0 +1,1730 @@
+{
+  "date": "2024-07-26",
+  "name": "Anuj Sharma",
+  "designation": "Associate Professor",
+  "_id": "AnujSharmaxnMScfIAAAAJ",
+  "email": "anujs@iastate.edu",
+  "author_id": "xnMScfIAAAAJ",
+    "city": "Ames",
+  "state": "Iowa",
+  "country": "United States",
+  "google_scholar_url": "https://scholar.google.com/citations?user=xnMScfIAAAAJ&hl=en",
+  "image_url": "https://www.engineering.iastate.edu/people/files/2016/01/AnujSharma_for-web.png",
+  "department_name": "Department of Civil, Construction and Environmental Engineering",
+  "department_website": "https://www.ccee.iastate.edu/",
+  "author_university_page": "https://www.ccee.iastate.edu/directory/profile/anujs/",
+  "personal_lab_website": "https://reactor.ctre.iastate.edu/",
+  "research_interest": "Big data analytics in transportation\nData-driven decision making\nTraffic signal systems\nSafety and efficiency of traffic operations\nSmart rural transportation",
+  "interests": [
+    {
+      "title": "Transportation",
+      "link": "https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=label:transportation",
+      "serpapi_link": "https://serpapi.com/search.json?engine=google_scholar_profiles&hl=en&mauthors=label%3Atransportation"
+    }
+  ],
+  "university": "Iowa State University",
+  "affiliations": "Iowa State University",
+  "citations": { "all": 3474, "since_2018": 2665 },
+  "h_index": { "all": 31, "since_2018": 27 },
+  "i10_index": { "all": 76, "since_2018": 62 },
+  "annual_wage": "64363.94$",
+  "co_author_info": [
+    {
+      "name": "Pranamesh Chakraborty",
+      "scholar_link": "https://scholar.google.com/citations?user=NimM6-gAAAAJ&hl=en",
+      "affiliations": "Assistant Professor, IIT Kanpur"
+    },
+    {
+      "name": "Darcy Bullock",
+      "scholar_link": "https://scholar.google.com/citations?user=iRsPqCMAAAAJ&hl=en",
+      "affiliations": "Lyles Family Professor of Civil Engineering, Purdue University"
+    },
+    {
+      "name": "Skylar Knickerbocker",
+      "scholar_link": "https://scholar.google.com/citations?user=J0x3RDYAAAAJ&hl=en",
+      "affiliations": "Research Engineer, Iowa State University"
+    },
+    {
+      "name": "Soumik Sarkar",
+      "scholar_link": "https://scholar.google.com/citations?user=-rmRjqIAAAAJ&hl=en",
+      "affiliations": "Director, Translational AI Center, Professor, Iowa State University"
+    },
+    {
+      "name": "Tingting Huang",
+      "scholar_link": "https://scholar.google.com/citations?user=tHAnmvgAAAAJ&hl=en",
+      "affiliations": "Ph.D., Iowa State University"
+    },
+    {
+      "name": "Lelitha Devi Vanajakshi",
+      "scholar_link": "https://scholar.google.com/citations?user=NFQxp20AAAAJ&hl=en",
+      "affiliations": "Department of Civil Engineering, Indian Institute of Technology Madras"
+    },
+    {
+      "name": "Shuo Wang",
+      "scholar_link": "https://scholar.google.com/citations?user=r0UjaNUAAAAJ&hl=en",
+      "affiliations": "NVIDIA"
+    },
+    {
+      "name": "Edward J. Smaglik",
+      "scholar_link": "https://scholar.google.com/citations?user=BqILDWkAAAAJ&hl=en",
+      "affiliations": "Professor of Civil Engineering, Northern Arizona University"
+    },
+    {
+      "name": "Subhadipto Poddar",
+      "scholar_link": "https://scholar.google.com/citations?user=yu-0VKIAAAAJ&hl=en",
+      "affiliations": "Transportation Researcher"
+    },
+    {
+      "name": "David C. Anastasiu",
+      "scholar_link": "https://scholar.google.com/citations?user=N9Lu6j8AAAAJ&hl=en",
+      "affiliations": "Santa Clara University, Santa Clara, CA"
+    },
+    {
+      "name": "Yaw Adu-Gyamfi",
+      "scholar_link": "https://scholar.google.com/citations?user=GP0F1ZwAAAAJ&hl=en",
+      "affiliations": "University of Missouri Columbia"
+    },
+    {
+      "name": "Srinivas Peeta",
+      "scholar_link": "https://scholar.google.com/citations?user=mX-caWgAAAAJ&hl=en",
+      "affiliations": "Frederick R. Dickerson Chair and Professor, School of Civil & Env Engg, School of Ind & Sys Engg"
+    },
+    {
+      "name": "Jennifer Merickel",
+      "scholar_link": "https://scholar.google.com/citations?user=L9Gg6-QAAAAJ&hl=en",
+      "affiliations": "University of Nebraska Medical Center"
+    },
+    {
+      "name": "Mo Zhao",
+      "scholar_link": "https://scholar.google.com/citations?user=xLDDFr0AAAAJ&hl=en",
+      "affiliations": "Virginia Transportation Research Council"
+    },
+    {
+      "name": "Arya Haghighat",
+      "scholar_link": "https://scholar.google.com/citations?user=Ni54J_QAAAAJ&hl=en",
+      "affiliations": "Iowa State University"
+    },
+    {
+      "name": "Shefang Wang",
+      "scholar_link": "https://scholar.google.com/citations?user=-97fTdkAAAAJ&hl=en",
+      "affiliations": "BASF Corporation"
+    },
+    {
+      "name": "Chinmay Hegde",
+      "scholar_link": "https://scholar.google.com/citations?user=eJAV17IAAAAJ&hl=en",
+      "affiliations": "New York University"
+    },
+    {
+      "name": "Ming-Ching Chang \u5f35\u660e\u6e05",
+      "scholar_link": "https://scholar.google.com/citations?user=a3-Gl8YAAAAJ&hl=en",
+      "affiliations": "University at Albany - SUNY"
+    },
+    {
+      "name": "Milind Naphade",
+      "scholar_link": "https://scholar.google.com/citations?user=Rn4gOfQAAAAJ&hl=en",
+      "affiliations": "NVIDIA"
+    },
+    {
+      "name": "Vesal Ahsani",
+      "scholar_link": "https://scholar.google.com/citations?user=c81c_m8AAAAJ&hl=en",
+      "affiliations": "Department of Electrical Engineering, Sharif University of Technology, Tehran, Iran"
+    }
+  ],
+  "articles": [
+    {
+      "article_title": "The 5th ai city challenge",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&citation_for_view=xnMScfIAAAAJ:q3CdL3IzO_QC",
+      "article_authors": "M Naphade, S Wang, DC Anastasiu, Z Tang, MC Chang, X Yang, Y Yao, ...",
+      "journal": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern \u2026, 2021",
+      "total_citations": {
+        "value": 182,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17632693958287984620",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17632693958287984620&engine=google_scholar&hl=en",
+        "cites_id": "17632693958287984620"
+      },
+      "publication_year": 2021
+    },
+    {
+      "article_title": "A deep-learning-based computer vision solution for construction vehicle detection",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&citation_for_view=xnMScfIAAAAJ:geHnlv5EZngC",
+      "article_authors": "S Arabi, A Haghighat, A Sharma",
+      "journal": "Computer-Aided Civil and Infrastructure Engineering 35 (7), 753-767, 2020",
+      "total_citations": {
+        "value": 120,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5148013161103185804,3134254634405272174",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5148013161103185804%2C3134254634405272174&engine=google_scholar&hl=en",
+        "cites_id": "5148013161103185804,3134254634405272174"
+      },
+      "publication_year": 2020
+    },
+    {
+      "article_title": "Traffic congestion detection from camera images using deep convolution neural networks",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&citation_for_view=xnMScfIAAAAJ:KxtntwgDAa4C",
+      "article_authors": "P Chakraborty, YO Adu-Gyamfi, S Poddar, V Ahsani, A Sharma, S Sarkar",
+      "journal": "Transportation Research Record 2672 (45), 222-231, 2018",
+      "total_citations": {
+        "value": 112,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15395566249692873629",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15395566249692873629&engine=google_scholar&hl=en",
+        "cites_id": "15395566249692873629"
+      },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "The 2019 AI City Challenge.",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&citation_for_view=xnMScfIAAAAJ:ZHo1McVdvXMC",
+      "article_authors": "M Naphade, Z Tang, MC Chang, DC Anastasiu, A Sharma, R Chellappa, ...",
+      "journal": "CVPR workshops 8, 2, 2019",
+      "total_citations": {
+        "value": 84,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1727626132513478215",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1727626132513478215&engine=google_scholar&hl=en",
+        "cites_id": "1727626132513478215"
+      },
+      "publication_year": 2019
+    },
+    {
+      "article_title": "Using the multivariate spatio-temporal Bayesian model to analyze traffic crashes by severity",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&citation_for_view=xnMScfIAAAAJ:2P1L_qKh6hAC",
+      "article_authors": "C Liu, A Sharma",
+      "journal": "Analytic Methods in Accident Research 17, 14-31, 2018",
+      "total_citations": {
+        "value": 84,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11382269455586956586",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11382269455586956586&engine=google_scholar&hl=en",
+        "cites_id": "11382269455586956586"
+      },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "The 2018 nvidia ai city challenge",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&citation_for_view=xnMScfIAAAAJ:u_35RYKgDlwC",
+      "article_authors": "M Naphade, MC Chang, A Sharma, DC Anastasiu, V Jagarlamudi, ...",
+      "journal": "Proceedings of the IEEE Conference on Computer Vision and Pattern \u2026, 2018",
+      "total_citations": {
+        "value": 80,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13999009441487394422",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13999009441487394422&engine=google_scholar&hl=en",
+        "cites_id": "13999009441487394422"
+      },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "Highway crash detection and risk estimation using deep learning",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&citation_for_view=xnMScfIAAAAJ:5ugPr518TE4C",
+      "article_authors": "T Huang, S Wang, A Sharma",
+      "journal": "Accident Analysis & Prevention 135, 105392, 2020",
+      "total_citations": {
+        "value": 79,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11225638996315114337",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11225638996315114337&engine=google_scholar&hl=en",
+        "cites_id": "11225638996315114337"
+      },
+      "publication_year": 2020
+    },
+    {
+      "article_title": "Automated vehicle recognition with deep convolutional neural networks",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&citation_for_view=xnMScfIAAAAJ:BrmTIyaxlBUC",
+      "article_authors": "YO Adu-Gyamfi, SK Asare, A Sharma, T Titus",
+      "journal": "Transportation Research Record 2645 (1), 113-122, 2017",
+      "total_citations": {
+        "value": 73,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1969258298868538587",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1969258298868538587&engine=google_scholar&hl=en",
+        "cites_id": "1969258298868538587"
+      },
+      "publication_year": 2017
+    },
+    {
+      "article_title": "Evaluating the reliability, coverage, and added value of crowdsourced traffic incident reports from Waze",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&citation_for_view=xnMScfIAAAAJ:nb7KW1ujOQ8C",
+      "article_authors": "M Amin-Naseri, P Chakraborty, A Sharma, SB Gilbert, M Hong",
+      "journal": "Transportation research record 2672 (43), 34-43, 2018",
+      "total_citations": {
+        "value": 71,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13227089251237829986",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13227089251237829986&engine=google_scholar&hl=en",
+        "cites_id": "13227089251237829986"
+      },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "Exploring spatio-temporal effects in traffic crash trend analysis",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&citation_for_view=xnMScfIAAAAJ:35N4QoGY0k4C",
+      "article_authors": "C Liu, A Sharma",
+      "journal": "Analytic Methods in Accident Research 16, 104-116, 2017",
+      "total_citations": {
+        "value": 65,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6208511525562033784",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6208511525562033784&engine=google_scholar&hl=en",
+        "cites_id": "6208511525562033784"
+      },
+      "publication_year": 2017
+    },
+    {
+      "article_title": "Applications of deep learning in intelligent transportation systems",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&citation_for_view=xnMScfIAAAAJ:q3oQSFYPqjQC",
+      "article_authors": "AK Haghighat, V Ravichandra-Mouli, P Chakraborty, Y Esfandiari, S Arabi, ...",
+      "journal": "Journal of Big Data Analytics in Transportation 2, 115-145, 2020",
+      "total_citations": {
+        "value": 62,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3973490262467150371",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3973490262467150371&engine=google_scholar&hl=en",
+        "cites_id": "3973490262467150371"
+      },
+      "publication_year": 2020
+    },
+    {
+      "article_title": "A vision-based system for traffic anomaly detection using deep learning and decision trees",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&citation_for_view=xnMScfIAAAAJ:t6usbXjVLHcC",
+      "article_authors": "A Aboah",
+      "journal": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern \u2026, 2021",
+      "total_citations": {
+        "value": 58,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17276517097484631291",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17276517097484631291&engine=google_scholar&hl=en",
+        "cites_id": "17276517097484631291"
+      },
+      "publication_year": 2021
+    },
+    {
+      "article_title": "Quantitative analysis of probe data characteristics: Coverage, speed bias and congestion detection precision",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&citation_for_view=xnMScfIAAAAJ:bFI3QPDXJZMC",
+      "article_authors": "V Ahsani, M Amin-Naseri, S Knickerbocker, A Sharma",
+      "journal": "Journal of Intelligent Transportation Systems 23 (2), 103-119, 2019",
+      "total_citations": {
+        "value": 50,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=78043394648615238",
+        "serpapi_link": "https://serpapi.com/search.json?cites=78043394648615238&engine=google_scholar&hl=en",
+        "cites_id": "78043394648615238"
+      },
+      "publication_year": 2019
+    },
+    {
+      "article_title": "The nvidia ai city challenge",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=20&citation_for_view=xnMScfIAAAAJ:zA6iFVUQeVQC",
+      "article_authors": "M Naphade, DC Anastasiu, A Sharma, V Jagrlamudi, H Jeon, K Liu, ...",
+      "journal": "2017 IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced \u2026, 2017",
+      "total_citations": {
+        "value": 49,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11148061318896171836,3775134832926543211",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11148061318896171836%2C3775134832926543211&engine=google_scholar&hl=en",
+        "cites_id": "11148061318896171836,3775134832926543211"
+      },
+      "publication_year": 2017
+    },
+    {
+      "article_title": "Multivariate random parameters zero-inflated negative binomial regression for analyzing urban midblock crashes",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=20&citation_for_view=xnMScfIAAAAJ:70eg2SAEIzsC",
+      "article_authors": "C Liu, M Zhao, W Li, A Sharma",
+      "journal": "Analytic Methods in Accident Research 17, 32-46, 2018",
+      "total_citations": {
+        "value": 41,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3310045058015583140",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3310045058015583140&engine=google_scholar&hl=en",
+        "cites_id": "3310045058015583140"
+      },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "Freeway traffic incident detection from cameras: A semi-supervised learning approach",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=20&citation_for_view=xnMScfIAAAAJ:dfsIfKJdRG4C",
+      "article_authors": "P Chakraborty, A Sharma, C Hegde",
+      "journal": "2018 21st International Conference on Intelligent Transportation Systems \u2026, 2018",
+      "total_citations": {
+        "value": 38,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5791736292924396324",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5791736292924396324&engine=google_scholar&hl=en",
+        "cites_id": "5791736292924396324"
+      },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "Evaluation of opportunities and challenges of using INRIX data for real-time performance monitoring and historical trend assessment",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=20&citation_for_view=xnMScfIAAAAJ:b0M2c_1WBrUC",
+      "article_authors": "A Sharma, V Ahsani, S Rawat",
+      "journal": "Nebraska. Dept. of Roads, 2017",
+      "total_citations": {
+        "value": 33,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3823150427987084063",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3823150427987084063&engine=google_scholar&hl=en",
+        "cites_id": "3823150427987084063"
+      },
+      "publication_year": 2017
+    },
+    {
+      "article_title": "Data-driven parallelizable traffic incident detection using spatio-temporally denoised robust thresholds",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=20&citation_for_view=xnMScfIAAAAJ:vRqMK49ujn8C",
+      "article_authors": "P Chakraborty, C Hegde, A Sharma",
+      "journal": "Transportation research part C: emerging technologies 105, 81-99, 2019",
+      "total_citations": {
+        "value": 31,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14649635953789224505",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14649635953789224505&engine=google_scholar&hl=en",
+        "cites_id": "14649635953789224505"
+      },
+      "publication_year": 2019
+    },
+    {
+      "article_title": "Multivariate Poisson-lognormal model for analysis of crashes on urban signalized intersections approach",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=20&citation_for_view=xnMScfIAAAAJ:dshw04ExmUIC",
+      "article_authors": "M Zhao, C Liu, W Li, A Sharma",
+      "journal": "Journal of Transportation Safety & Security 10 (3), 251-265, 2018",
+      "total_citations": {
+        "value": 30,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16383876093548109721",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16383876093548109721&engine=google_scholar&hl=en",
+        "cites_id": "16383876093548109721"
+      },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "Building intelligence in automated traffic signal performance measures with advanced data analytics",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=20&citation_for_view=xnMScfIAAAAJ:LPZeul_q3PIC",
+      "article_authors": "T Huang, S Poddar, C Aguilar, A Sharma, E Smaglik, S Kothuri, P Koonce",
+      "journal": "Transportation Research Record 2672 (18), 154-166, 2018",
+      "total_citations": {
+        "value": 25,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1064039033465422703",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1064039033465422703&engine=google_scholar&hl=en",
+        "cites_id": "1064039033465422703"
+      },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "Deep convolutional generative adversarial networks for traffic data imputation encoding time series as images",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=20&citation_for_view=xnMScfIAAAAJ:eflP2zaiRacC",
+      "article_authors": "T Huang, P Chakraborty, A Sharma",
+      "journal": "International Journal of Transportation Science and Technology, 2021",
+      "total_citations": {
+        "value": 24,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7213573055006341921",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7213573055006341921&engine=google_scholar&hl=en",
+        "cites_id": "7213573055006341921"
+      },
+      "publication_year": 2021
+    },
+    {
+      "article_title": "Real-time energy-efficient traffic control via convex optimization",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=20&citation_for_view=xnMScfIAAAAJ:PELIpwtuRlgC",
+      "article_authors": "Y Zu, C Liu, R Dai, A Sharma, J Dong",
+      "journal": "Transportation Research Part C: Emerging Technologies 92, 119-136, 2018",
+      "total_citations": {
+        "value": 22,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11748066598576370473",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11748066598576370473&engine=google_scholar&hl=en",
+        "cites_id": "11748066598576370473"
+      },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "Framework for evaluating the reliability of wide-area probe data",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=20&citation_for_view=xnMScfIAAAAJ:tkaPQYYpVKoC",
+      "article_authors": "YO Adu-Gyamfi, A Sharma, S Knickerbocker, N Hawkins, M Jackson",
+      "journal": "Transportation Research Record 2643 (1), 93-104, 2017",
+      "total_citations": {
+        "value": 22,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10623915775170978686",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10623915775170978686&engine=google_scholar&hl=en",
+        "cites_id": "10623915775170978686"
+      },
+      "publication_year": 2017
+    },
+    {
+      "article_title": "A survey on driver behavior analysis from in-vehicle cameras",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=40&citation_for_view=xnMScfIAAAAJ:z_wVstp3MssC",
+      "article_authors": "J Wang, W Chai, A Venkatachalapathy, KL Tan, A Haghighat, ...",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems 23 (8), 10186-10209, 2021",
+      "total_citations": {
+        "value": 21,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6938403558523692498",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6938403558523692498&engine=google_scholar&hl=en",
+        "cites_id": "6938403558523692498"
+      },
+      "publication_year": 2021
+    },
+    {
+      "article_title": "Application of text mining in smart lighting literature-an analysis of existing literature and a research agenda",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=40&citation_for_view=xnMScfIAAAAJ:fEOibwPWpKIC",
+      "article_authors": "A Zarindast, A Sharma, J Wood",
+      "journal": "International Journal of Information Management Data Insights 1 (2), 100032, 2021",
+      "total_citations": {
+        "value": 21,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7182799266044559151",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7182799266044559151&engine=google_scholar&hl=en",
+        "cites_id": "7182799266044559151"
+      },
+      "publication_year": 2021
+    },
+    {
+      "article_title": "Predicting freeway work zone capacity distribution based on logistic speed-density models",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=40&citation_for_view=xnMScfIAAAAJ:5Ul4iDaHHb8C",
+      "article_authors": "C Lu, J Dong, A Sharma, T Huang, S Knickerbocker",
+      "journal": "Journal of Advanced Transportation 2018, 2018",
+      "total_citations": {
+        "value": 21,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=639845390243970745",
+        "serpapi_link": "https://serpapi.com/search.json?cites=639845390243970745&engine=google_scholar&hl=en",
+        "cites_id": "639845390243970745"
+      },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "Deep reinforcement learning for adaptive traffic signal control",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=40&citation_for_view=xnMScfIAAAAJ:V3AGJWp-ZtQC",
+      "article_authors": "KL Tan, S Poddar, S Sarkar, A Sharma",
+      "journal": "Dynamic Systems and Control Conference 59162, V003T18A006, 2019",
+      "total_citations": {
+        "value": 19,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8727248446026429123",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8727248446026429123&engine=google_scholar&hl=en",
+        "cites_id": "8727248446026429123"
+      },
+      "publication_year": 2019
+    },
+    {
+      "article_title": "Outlier mining based traffic incident detection using big data analytics",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=40&citation_for_view=xnMScfIAAAAJ:CHSYGLWDkRkC",
+      "article_authors": "P Chakraborty, JR Hess, A Sharma, S Knickerbocker",
+      "journal": "Transportation Research Board 96th Annual Meeting Compendium of Papers, 8-12, 2017",
+      "total_citations": {
+        "value": 19,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5033591753475903072",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5033591753475903072&engine=google_scholar&hl=en",
+        "cites_id": "5033591753475903072"
+      },
+      "publication_year": 2017
+    },
+    {
+      "article_title": "Synthetic distracted driving (syndd1) dataset for analyzing distracted behaviors and various gaze zones of a driver",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=40&citation_for_view=xnMScfIAAAAJ:e_rmSamDkqQC",
+      "article_authors": "MS Rahman, A Venkatachalapathy, A Sharma, J Wang, SV Gursoy, ...",
+      "journal": "Data in brief 46, 108793, 2023",
+      "total_citations": {
+        "value": 18,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12972925594948081769",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12972925594948081769&engine=google_scholar&hl=en",
+        "cites_id": "12972925594948081769"
+      },
+      "publication_year": 2023
+    },
+    {
+      "article_title": "A longitudinal analysis of the effectiveness of California\u2019s ban on cellphone use while driving",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=40&citation_for_view=xnMScfIAAAAJ:WqliGbK-hY8C",
+      "article_authors": "C Liu, C Lu, S Wang, A Sharma, J Shaw",
+      "journal": "Transportation research part A: policy and practice 124, 456-467, 2019",
+      "total_citations": {
+        "value": 17,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3601058751325569787",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3601058751325569787&engine=google_scholar&hl=en",
+        "cites_id": "3601058751325569787"
+      },
+      "publication_year": 2019
+    },
+    {
+      "article_title": "Traffic dynamics exploration and incident detection using spatiotemporal graphical modeling",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=40&citation_for_view=xnMScfIAAAAJ:xtRiw3GOFMkC",
+      "article_authors": "C Liu, M Zhao, A Sharma, S Sarkar",
+      "journal": "Journal of Big Data Analytics in Transportation 1, 37-55, 2019",
+      "total_citations": {
+        "value": 17,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4669566839693078913",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4669566839693078913&engine=google_scholar&hl=en",
+        "cites_id": "4669566839693078913"
+      },
+      "publication_year": 2019
+    },
+    {
+      "article_title": "Public opinion analysis of the transportation policy using social media data: a case study on the Delhi odd\u2013even policy",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=40&citation_for_view=xnMScfIAAAAJ:fPk4N6BV_jEC",
+      "article_authors": "P Chakraborty, A Sharma",
+      "journal": "Transportation in Developing Economies 5, 1-9, 2019",
+      "total_citations": {
+        "value": 17,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14592265991846386038",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14592265991846386038&engine=google_scholar&hl=en",
+        "cites_id": "14592265991846386038"
+      },
+      "publication_year": 2019
+    },
+    {
+      "article_title": "Robust deep reinforcement learning for traffic signal control",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=40&citation_for_view=xnMScfIAAAAJ:bnK-pcrLprsC",
+      "article_authors": "KL Tan, A Sharma, S Sarkar",
+      "journal": "Journal of Big Data Analytics in Transportation 2, 263-274, 2020",
+      "total_citations": {
+        "value": 15,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12682347871480432318",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12682347871480432318&engine=google_scholar&hl=en",
+        "cites_id": "12682347871480432318"
+      },
+      "publication_year": 2020
+    },
+    {
+      "article_title": "Road weather condition estimation using fixed and mobile based cameras",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=40&citation_for_view=xnMScfIAAAAJ:u9iWguZQMMsC",
+      "article_authors": "K Ozcan, A Sharma, S Knickerbocker, J Merickel, N Hawkins, M Rizzo",
+      "journal": "Advances in Computer Vision: Proceedings of the 2019 Computer Vision \u2026, 2020",
+      "total_citations": {
+        "value": 14,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12563712212018810895",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12563712212018810895&engine=google_scholar&hl=en",
+        "cites_id": "12563712212018810895"
+      },
+      "publication_year": 2020
+    },
+    {
+      "article_title": "A cyberinfrastructure for big data transportation engineering",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=40&citation_for_view=xnMScfIAAAAJ:eMMeJKvmdy0C",
+      "article_authors": "MJ Islam, A Sharma, H Rajan",
+      "journal": "Journal of Big Data Analytics in Transportation 1, 83-94, 2019",
+      "total_citations": {
+        "value": 14,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6550811836419276998,7436980392410710808",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6550811836419276998%2C7436980392410710808&engine=google_scholar&hl=en",
+        "cites_id": "6550811836419276998,7436980392410710808"
+      },
+      "publication_year": 2019
+    },
+    {
+      "article_title": "Deep Learning-Based Object Detection for Unmanned Aerial Systems (UASs)-Based Inspections of Construction Stormwater Practices",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=60&citation_for_view=xnMScfIAAAAJ:8AbLer7MMksC",
+      "article_authors": "B Kazaz, S Poddar, S Arabi, MA Perez, A Sharma, JB Whitman",
+      "journal": "Sensors 21 (8), 2834, 2021",
+      "total_citations": {
+        "value": 13,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14824863898915407635",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14824863898915407635&engine=google_scholar&hl=en",
+        "cites_id": "14824863898915407635"
+      },
+      "publication_year": 2021
+    },
+    {
+      "article_title": "Travel time observations using bluetooth mac address matching: a case study on the Rajiv Gandhi roadway: Chennai, India",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=60&citation_for_view=xnMScfIAAAAJ:fQNAKQ3IYiAC",
+      "article_authors": "SM Remias, AM Hainen, JK Mathew, L Vanajakshi, A Sharma, ...",
+      "journal": null,
+      "total_citations": {
+        "value": 13,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3962976859066938839",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3962976859066938839&engine=google_scholar&hl=en",
+        "cites_id": "3962976859066938839"
+      },
+      "publication_year": 2017
+    },
+    {
+      "article_title": "A Data-Driven Method for Congestion Identification and Classification",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=60&citation_for_view=xnMScfIAAAAJ:yB1At4FlUx8C",
+      "article_authors": "A Zarindast, S Poddar, A Sharma",
+      "journal": "Journal of Transportation Engineering, Part A: Systems 148 (4), 04022012, 2022",
+      "total_citations": {
+        "value": 12,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8621955934640643326,8426416571603726490",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8621955934640643326%2C8426416571603726490&engine=google_scholar&hl=en",
+        "cites_id": "8621955934640643326,8426416571603726490"
+      },
+      "publication_year": 2022
+    },
+    {
+      "article_title": "ARA: A Wireless Living Lab Vision for Smart and Connected Rural Communities",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=60&citation_for_view=xnMScfIAAAAJ:35r97b3x0nAC",
+      "article_authors": "H Zhang, Y Guan, A Kamal, D Qiao, M Zheng, A Arora, O Boyraz, B Cox, ...",
+      "journal": "Proceedings of the 15th ACM Workshop on Wireless Network Testbeds \u2026, 2022",
+      "total_citations": {
+        "value": 12,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8639143250481012584",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8639143250481012584&engine=google_scholar&hl=en",
+        "cites_id": "8639143250481012584"
+      },
+      "publication_year": 2022
+    },
+    {
+      "article_title": "Detecting and Tracking Unsafe Lane Departure Events for Predicting Driver Safety in Challenging Naturalistic Driving Data",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=60&citation_for_view=xnMScfIAAAAJ:f2IySw72cVMC",
+      "article_authors": "L Riera, K Ozcan, J Merickel, M Rizzo, S Sarkar, A Sharma",
+      "journal": "2020 IEEE Intelligent Vehicles Symposium (IV), 238-245, 2020",
+      "total_citations": {
+        "value": 12,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14325237943908881491,8383313009472157141",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14325237943908881491%2C8383313009472157141&engine=google_scholar&hl=en",
+        "cites_id": "14325237943908881491,8383313009472157141"
+      },
+      "publication_year": 2020
+    },
+    {
+      "article_title": "Theory of safety surrogates using vehicle trajectories in macroscopic and microscopic settings: application to dynamic message signs controlled traffic at work zones",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=60&citation_for_view=xnMScfIAAAAJ:N5tVd3kTz84C",
+      "article_authors": "P Kachroo, A Sharma",
+      "journal": "Transportation research part C: emerging technologies 91, 62-76, 2018",
+      "total_citations": {
+        "value": 12,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10219443946901249430",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10219443946901249430&engine=google_scholar&hl=en",
+        "cites_id": "10219443946901249430"
+      },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "Bi-national delay pattern analysis for commercial and passenger vehicles at niagara frontier border",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=60&citation_for_view=xnMScfIAAAAJ:NJ774b8OgUMC",
+      "article_authors": "Z Zhang, L Lin, L Zhu, A Sharma",
+      "journal": "arXiv preprint arXiv:1711.09723, 2017",
+      "total_citations": {
+        "value": 12,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12103141214050591208",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12103141214050591208&engine=google_scholar&hl=en",
+        "cites_id": "12103141214050591208"
+      },
+      "publication_year": 2017
+    },
+    {
+      "article_title": "Traffic system anomaly detection using spatiotemporal pattern networks",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=60&citation_for_view=xnMScfIAAAAJ:_B80troHkn4C",
+      "article_authors": "T Huang, C Liu, A Sharma, S Sarkar",
+      "journal": "International Journal of Prognostics and Health Management 9 (1), 2018",
+      "total_citations": {
+        "value": 11,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10634971382143680106",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10634971382143680106&engine=google_scholar&hl=en",
+        "cites_id": "10634971382143680106"
+      },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "The 6th ai city challenge. In 2022 IEEE",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=60&citation_for_view=xnMScfIAAAAJ:XoXfffV-tXoC",
+      "article_authors": "M Naphade, S Wang, DC Anastasiu, Z Tang, M Chang, Y Yao, L Zheng, ...",
+      "journal": "CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW) 1, 2022",
+      "total_citations": {
+        "value": 10,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=7347861044916414800",
+        "serpapi_link": "https://serpapi.com/search.json?cites=7347861044916414800&engine=google_scholar&hl=en",
+        "cites_id": "7347861044916414800"
+      },
+      "publication_year": 2022
+    },
+    {
+      "article_title": "Are you going to get a ticket or a warning for speeding? An autologistic regression analysis in Burlington, VT",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=60&citation_for_view=xnMScfIAAAAJ:l7t_Zn2s7bgC",
+      "article_authors": "C Liu, A Sharma",
+      "journal": "Transportation research interdisciplinary perspectives 1, 100001, 2019",
+      "total_citations": {
+        "value": 10,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12183856636352247324",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12183856636352247324&engine=google_scholar&hl=en",
+        "cites_id": "12183856636352247324"
+      },
+      "publication_year": 2019
+    },
+    {
+      "article_title": "Leading Pedestrian Intervals: Treating the Decision to Implement as a Marginal Benefit\u2013Cost Problem",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=60&citation_for_view=xnMScfIAAAAJ:eJXPG6dFmWUC",
+      "article_authors": "A Sharma, E Smaglik, S Kothuri, O Smith, P Koonce, T Huang",
+      "journal": "Transportation Research Record 2620 (1), 96-104, 2017",
+      "total_citations": {
+        "value": 10,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15545477263030730692",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15545477263030730692&engine=google_scholar&hl=en",
+        "cites_id": "15545477263030730692"
+      },
+      "publication_year": 2017
+    },
+    {
+      "article_title": "Quantifying vehicle control from physiology in type 1 diabetes",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=60&citation_for_view=xnMScfIAAAAJ:p2g8aNsByqUC",
+      "article_authors": "P Chakraborty, J Merickel, V Shah, A Sharma, C Hegde, C Desouza, ...",
+      "journal": "Traffic injury prevention 20 (sup2), S26-S31, 2019",
+      "total_citations": {
+        "value": 9,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2469268623509923959",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2469268623509923959&engine=google_scholar&hl=en",
+        "cites_id": "2469268623509923959"
+      },
+      "publication_year": 2019
+    },
+    {
+      "article_title": "Performance-Based Operations Assessment of Adaptive Control Implementation in Des Moines, Iowa",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=60&citation_for_view=xnMScfIAAAAJ:NhqRSupF_l8C",
+      "article_authors": "A Sharma, N Hawkins, JG Shaw, S Knickerbocker, S Poddar",
+      "journal": "Iowa State University. Institute for Transportation, 2018",
+      "total_citations": {
+        "value": 9,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4564594739954436182",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4564594739954436182&engine=google_scholar&hl=en",
+        "cites_id": "4564594739954436182"
+      },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "Traffic sensor health monitoring using spatiotemporal graphical modeling",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=60&citation_for_view=xnMScfIAAAAJ:1sJd4Hv_s6UC",
+      "article_authors": "L Wu, C Liu, T Huang, A Sharma, S Sarkar",
+      "journal": "International Journal of Prognostics and Health Management 9 (1), 2018",
+      "total_citations": {
+        "value": 9,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2769863024039270659",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2769863024039270659&engine=google_scholar&hl=en",
+        "cites_id": "2769863024039270659"
+      },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "Analyzing and Improving the Performance of Dynamic Message Sign Reporting Work Zone\u2013Related Congestion",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=60&citation_for_view=xnMScfIAAAAJ:5awf1xo2G04C",
+      "article_authors": "S Wang, A Sharma, S Knickerbocker",
+      "journal": "Transportation Research Record 2617 (1), 71-77, 2017",
+      "total_citations": {
+        "value": 9,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2661495431917845836",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2661495431917845836&engine=google_scholar&hl=en",
+        "cites_id": "2661495431917845836"
+      },
+      "publication_year": 2017
+    },
+    {
+      "article_title": "Development and implementation of a model-based road traffic-control scheme",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=80&citation_for_view=xnMScfIAAAAJ:738O_yMBCRsC",
+      "article_authors": "V Verghese, L Chenhui, SC Subramanian, L Vanajakshi, A Sharma",
+      "journal": "Journal of Computing in Civil Engineering 31 (3), 04016063, 2017",
+      "total_citations": {
+        "value": 8,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9144537216405917475",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9144537216405917475&engine=google_scholar&hl=en",
+        "cites_id": "9144537216405917475"
+      },
+      "publication_year": 2017
+    },
+    {
+      "article_title": "Impact of covid-19 on traffic signal systems: Survey of agency interventions and observed changes in pedestrian activity",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=80&citation_for_view=xnMScfIAAAAJ:evX43VCCuoAC",
+      "article_authors": "PA Singleton, M Taylor, C Day, S Poddar, S Kothuri, A Sharma",
+      "journal": "Transportation Research Record 2677 (4), 192-203, 2023",
+      "total_citations": {
+        "value": 7,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12537047616592240743",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12537047616592240743&engine=google_scholar&hl=en",
+        "cites_id": "12537047616592240743"
+      },
+      "publication_year": 2023
+    },
+    {
+      "article_title": "A computer vision-based deep learning model to detect wrong-way driving using pan-tilt-zoom traffic cameras",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=80&citation_for_view=xnMScfIAAAAJ:0KyAp5RtaNEC",
+      "article_authors": "A Haghighat, A Sharma",
+      "journal": "Computer\u2010Aided Civil and Infrastructure Engineering 38 (1), 119-132, 2023",
+      "total_citations": {
+        "value": 7,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5023749685819591450",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5023749685819591450&engine=google_scholar&hl=en",
+        "cites_id": "5023749685819591450"
+      },
+      "publication_year": 2023
+    },
+    {
+      "article_title": "Visual and cognitive impairments differentially affect speed limit compliance in older drivers",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=80&citation_for_view=xnMScfIAAAAJ:UxriW0iASnsC",
+      "article_authors": "S Wang, A Sharma, J Dawson, M Rizzo, J Merickel",
+      "journal": "Journal of the American Geriatrics Society 69 (5), 1300-1308, 2021",
+      "total_citations": {
+        "value": 7,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5384679733251890353",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5384679733251890353&engine=google_scholar&hl=en",
+        "cites_id": "5384679733251890353"
+      },
+      "publication_year": 2021
+    },
+    {
+      "article_title": "Performance-based operations assessment of adaptive control implementation in des moines",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=80&citation_for_view=xnMScfIAAAAJ:foquWX3nUaYC",
+      "article_authors": "A Sharma, N Hawkins, JG Shaw, S Knickerbocker, S Poddar",
+      "journal": "Iowa, 2018",
+      "total_citations": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9265252114443717435",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9265252114443717435&engine=google_scholar&hl=en",
+        "cites_id": "9265252114443717435"
+      },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "Comparison of machine learning algorithms to determine traffic congestion from camera images",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=80&citation_for_view=xnMScfIAAAAJ:dTyEYWd-f8wC",
+      "article_authors": "S Poddar, K Ozcan, P Chakraborty, V Ahsani, A Sharma, S Sarkar",
+      "journal": "Transportation Research Board 97th annual meeting, Washington, DC, 7-11, 2018",
+      "total_citations": {
+        "value": 6,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14930890814475531149",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14930890814475531149&engine=google_scholar&hl=en",
+        "cites_id": "14930890814475531149"
+      },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "Driver Maneuver Detection and Analysis using Time Series Segmentation and Classification",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=80&citation_for_view=xnMScfIAAAAJ:M7yex6snE4oC",
+      "article_authors": "A Aboah, Y Adu-Gyamfi, SV Gursoy, J Merickel, M Rizzo, A Sharma",
+      "journal": "Journal of Transportation Engineering, Part A: Systems 149 (3), 04022157, 2023",
+      "total_citations": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9771663712622525287",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9771663712622525287&engine=google_scholar&hl=en",
+        "cites_id": "9771663712622525287"
+      },
+      "publication_year": 2023
+    },
+    {
+      "article_title": "An improved inductive loop detector design for efficient traffic signal operations and leaner space requirements",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=80&citation_for_view=xnMScfIAAAAJ:AXPGKjj_ei8C",
+      "article_authors": "GKV Yogesh, A Sharma, L Vanajakshi",
+      "journal": "Transportation Research Record 2672 (18), 143-153, 2018",
+      "total_citations": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=6039602329733612037",
+        "serpapi_link": "https://serpapi.com/search.json?cites=6039602329733612037&engine=google_scholar&hl=en",
+        "cites_id": "6039602329733612037"
+      },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "Trend filtering in network time series with applications to traffic incident detection",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=80&citation_for_view=xnMScfIAAAAJ:XiVPGOgt02cC",
+      "article_authors": "P Chakraborty, C Hegde, A Sharma",
+      "journal": "Time Series Workshop, 31st Conference on Neural Information Processing \u2026, 2017",
+      "total_citations": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12877446172068636524",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12877446172068636524&engine=google_scholar&hl=en",
+        "cites_id": "12877446172068636524"
+      },
+      "publication_year": 2017
+    },
+    {
+      "article_title": "Assessing the impact of speed-limit reduction near signalized high-speed intersections equipped with advance-warning flashers",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=80&citation_for_view=xnMScfIAAAAJ:LjlpjdlvIbIC",
+      "article_authors": "S Wang, A Sharma",
+      "journal": "Journal of Transportation Engineering, Part A: Systems 143 (6), 04017014, 2017",
+      "total_citations": {
+        "value": 5,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5933345417778762014",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5933345417778762014&engine=google_scholar&hl=en",
+        "cites_id": "5933345417778762014"
+      },
+      "publication_year": 2017
+    },
+    {
+      "article_title": "Massively parallelizable approach for evaluating signalized arterial performance using probe-based data",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=100&citation_for_view=xnMScfIAAAAJ:J-pR_7NvFogC",
+      "article_authors": "S Poddar, P Chakraborty, A Sharma, S Knickerbocker, N Hawkins",
+      "journal": "Journal of Intelligent Transportation Systems 27 (4), 488-502, 2023",
+      "total_citations": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11520209650426610305",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11520209650426610305&engine=google_scholar&hl=en",
+        "cites_id": "11520209650426610305"
+      },
+      "publication_year": 2023
+    },
+    {
+      "article_title": "Sugar and stops in drivers with insulin-dependent type 1 diabetes",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=100&citation_for_view=xnMScfIAAAAJ:wbdj-CoPYUoC",
+      "article_authors": "A Barnwal, P Chakraborty, A Sharma, L Riera-Garcia, K Ozcan, S Davami, ...",
+      "journal": "Accident Analysis & Prevention 173, 106692, 2022",
+      "total_citations": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=14406258037378604043",
+        "serpapi_link": "https://serpapi.com/search.json?cites=14406258037378604043&engine=google_scholar&hl=en",
+        "cites_id": "14406258037378604043"
+      },
+      "publication_year": 2022
+    },
+    {
+      "article_title": "Improving Probe-Based Congestion Performance Metrics Accuracy by Using Change Point Detection",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=100&citation_for_view=xnMScfIAAAAJ:VOx2b1Wkg3QC",
+      "article_authors": "V Ahsani, A Sharma, C Hegde, S Knickerbocker, N Hawkins",
+      "journal": "Journal of Big Data Analytics in Transportation 2, 61-74, 2020",
+      "total_citations": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9066165499818599439",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9066165499818599439&engine=google_scholar&hl=en",
+        "cites_id": "9066165499818599439"
+      },
+      "publication_year": 2020
+    },
+    {
+      "article_title": "Milkweed (Asclepias syriaca) plant detection using mobile cameras",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=100&citation_for_view=xnMScfIAAAAJ:kzcrU_BdoSEC",
+      "article_authors": "K Ozcan, A Sharma, SP Bradbury, D Schweitzer, T Blader, S Blodgett",
+      "journal": "Ecosphere 11 (1), e02992, 2020",
+      "total_citations": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=533725799330493064",
+        "serpapi_link": "https://serpapi.com/search.json?cites=533725799330493064&engine=google_scholar&hl=en",
+        "cites_id": "533725799330493064"
+      },
+      "publication_year": 2020
+    },
+    {
+      "article_title": "Highway design and road safety",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=100&citation_for_view=xnMScfIAAAAJ:uWQEDVKXjbEC",
+      "article_authors": "N Eluru, A Sharma, R Tay",
+      "journal": "J. Transp. Saf. Secur 10 (4), 408-410, 2018",
+      "total_citations": {
+        "value": 4,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1231560150523739390",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1231560150523739390&engine=google_scholar&hl=en",
+        "cites_id": "1231560150523739390"
+      },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "Assessing Driver Behavior at Back of Queues: Implications for Queue Warning System in Work Zones",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=100&citation_for_view=xnMScfIAAAAJ:uc_IGeMz5qoC",
+      "article_authors": "S Hallmark, A Sharma, B Lawton, G Basulto-Elias, N Oneyear, T Litteral",
+      "journal": null,
+      "total_citations": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3161514333159946816",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3161514333159946816&engine=google_scholar&hl=en",
+        "cites_id": "3161514333159946816"
+      },
+      "publication_year": 2020
+    },
+    {
+      "article_title": "A Rubric-Driven Evaluation of Open Data Portals and Their Data in Transportation",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=100&citation_for_view=xnMScfIAAAAJ:WA5NYHcadZ8C",
+      "article_authors": "A Venkatachalapathy, A Sharma, S Knickerbocker, N Hawkins",
+      "journal": "Journal of Big Data Analytics in Transportation 2, 181-198, 2020",
+      "total_citations": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5020276098853189859",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5020276098853189859&engine=google_scholar&hl=en",
+        "cites_id": "5020276098853189859"
+      },
+      "publication_year": 2020
+    },
+    {
+      "article_title": "Naturalistic Driving Data Indexes Travel Patterns & Exposure in At-Risk Older Drivers",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=100&citation_for_view=xnMScfIAAAAJ:M05iB0D1s5AC",
+      "article_authors": "C Liu, J Merickel, A Sharma, M Rizzo",
+      "journal": "ANNALS OF NEUROLOGY 84, S69-S70, 2018",
+      "total_citations": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=5222256135320010120",
+        "serpapi_link": "https://serpapi.com/search.json?cites=5222256135320010120&engine=google_scholar&hl=en",
+        "cites_id": "5222256135320010120"
+      },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "Region-based deformable fully convolutional networks for multi-class object detection at signalized traffic intersections: NVIDIA AICity challenge 2017 track 1",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=100&citation_for_view=xnMScfIAAAAJ:4OULZ7Gr8RgC",
+      "article_authors": "S Wang, K Ozcan, A Sharma",
+      "journal": "2017 IEEE SmartWorld, Ubiquitous Intelligence & Computing, Advanced \u2026, 2017",
+      "total_citations": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2449253170701593470",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2449253170701593470&engine=google_scholar&hl=en",
+        "cites_id": "2449253170701593470"
+      },
+      "publication_year": 2017
+    },
+    {
+      "article_title": "Improving adaptive/responsive signal control performance: implications of non-invasive detection and legacy timing practices",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=100&citation_for_view=xnMScfIAAAAJ:D_sINldO8mEC",
+      "article_authors": "EJ Smaglik, C Sobie, A Sharma, C Liu, S Kothuri",
+      "journal": "Oregon. Dept. of Transportation. Research Section, 2017",
+      "total_citations": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=15813593784594702477",
+        "serpapi_link": "https://serpapi.com/search.json?cites=15813593784594702477&engine=google_scholar&hl=en",
+        "cites_id": "15813593784594702477"
+      },
+      "publication_year": 2017
+    },
+    {
+      "article_title": "Setting Work Zone Speed Limits",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=100&citation_for_view=xnMScfIAAAAJ:VL0QpB8kHFEC",
+      "article_authors": "A Sharma, T Huang, S Roy, P Savolainen",
+      "journal": null,
+      "total_citations": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8458134225138805400",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8458134225138805400&engine=google_scholar&hl=en",
+        "cites_id": "8458134225138805400"
+      },
+      "publication_year": 2017
+    },
+    {
+      "article_title": "Effect of narrower lane width on traffic operations for urban midblock segments",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=100&citation_for_view=xnMScfIAAAAJ:ns9cj8rnVeAC",
+      "article_authors": "M Zhao, C Liu, W Li, A Sharma",
+      "journal": null,
+      "total_citations": {
+        "value": 3,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12441619613010227241",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12441619613010227241&engine=google_scholar&hl=en",
+        "cites_id": "12441619613010227241"
+      },
+      "publication_year": 2017
+    },
+    {
+      "article_title": "Exploratory regression models for estimating right-turn-on-red volume on exclusive right-turn lanes at signalized intersections",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=120&citation_for_view=xnMScfIAAAAJ:TIZ-Mc8IlK0C",
+      "article_authors": "AMT Emtenan, A Haghighat, M Shields, J Shaw, P Hawley, A Sharma, ...",
+      "journal": "Transportation research record 2677 (3), 596-608, 2023",
+      "total_citations": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2934906503587320814",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2934906503587320814&engine=google_scholar&hl=en",
+        "cites_id": "2934906503587320814"
+      },
+      "publication_year": 2023
+    },
+    {
+      "article_title": "A Naturalistic Data-Driven Study of Indian Traffic Conditions and Driver\u2019s Physiological Stress",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=120&citation_for_view=xnMScfIAAAAJ:URolC5Kub84C",
+      "article_authors": "A Venkatachalapathy, A Sharma, LD Vanajakshi",
+      "journal": "Transportation in developing economies 8 (2), 23, 2022",
+      "total_citations": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8253970926236538766",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8253970926236538766&engine=google_scholar&hl=en",
+        "cites_id": "8253970926236538766"
+      },
+      "publication_year": 2022
+    },
+    {
+      "article_title": "Farm Vehicle Following Distance Estimation Using Deep Learning and Monocular Camera Images",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=120&citation_for_view=xnMScfIAAAAJ:uWiczbcajpAC",
+      "article_authors": "S Arabi, A Sharma, M Reyes, C Hamann, C Peek-Asa",
+      "journal": "Sensors 22 (7), 2736, 2022",
+      "total_citations": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10549336433004840423",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10549336433004840423&engine=google_scholar&hl=en",
+        "cites_id": "10549336433004840423"
+      },
+      "publication_year": 2022
+    },
+    {
+      "article_title": "Dataset for analyzing various gaze zones and distracted behaviors of a driver",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=120&citation_for_view=xnMScfIAAAAJ:AvfA0Oy_GE0C",
+      "article_authors": "MS Rahman, A Venkatachalapathy, A Sharma, J Wang, SV Gursoy, ...",
+      "journal": "arXiv preprint arXiv:2204.08096 6, 2022",
+      "total_citations": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3048105994864972477,13277047724889156654",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3048105994864972477%2C13277047724889156654&engine=google_scholar&hl=en",
+        "cites_id": "3048105994864972477,13277047724889156654"
+      },
+      "publication_year": 2022
+    },
+    {
+      "article_title": "A data-driven personalized smart lighting recommender system",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=120&citation_for_view=xnMScfIAAAAJ:PoWvk5oyLR8C",
+      "article_authors": "A Zarindast, J Wood, A Sharma",
+      "journal": "arXiv preprint arXiv:2104.02164, 2021",
+      "total_citations": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12677458856598661889",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12677458856598661889&engine=google_scholar&hl=en",
+        "cites_id": "12677458856598661889"
+      },
+      "publication_year": 2021
+    },
+    {
+      "article_title": "Technical and economic feasibility assessment of a cloud-enabled traffic video analysis framework",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=120&citation_for_view=xnMScfIAAAAJ:1qzjygNMrQYC",
+      "article_authors": "T Huang, A Sharma",
+      "journal": "Journal of Big Data Analytics in Transportation 2, 223-233, 2020",
+      "total_citations": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8752761440697330816",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8752761440697330816&engine=google_scholar&hl=en",
+        "cites_id": "8752761440697330816"
+      },
+      "publication_year": 2020
+    },
+    {
+      "article_title": "Leveraging snow plow dashboards cams and connected vehicle speed data to improve winter operations performance measures",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=120&citation_for_view=xnMScfIAAAAJ:dQ2og3OwTAUC",
+      "article_authors": "H Li, L Peters, C Banuelos, J Zaugg, A Sharma, DM Bullock",
+      "journal": null,
+      "total_citations": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=12759619936008284912",
+        "serpapi_link": "https://serpapi.com/search.json?cites=12759619936008284912&engine=google_scholar&hl=en",
+        "cites_id": "12759619936008284912"
+      },
+      "publication_year": 2019
+    },
+    {
+      "article_title": "Traffic sign detection from lower-quality and noisy mobile videos",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=120&citation_for_view=xnMScfIAAAAJ:HE397vMXCloC",
+      "article_authors": "K Ozcan, S Velipasalar, A Sharma",
+      "journal": "Proceedings of the 11th International Conference on Distributed Smart \u2026, 2017",
+      "total_citations": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=1061929299279509335",
+        "serpapi_link": "https://serpapi.com/search.json?cites=1061929299279509335&engine=google_scholar&hl=en",
+        "cites_id": "1061929299279509335"
+      },
+      "publication_year": 2017
+    },
+    {
+      "article_title": "Installation Guidance for Centerline and Edgeline Rumble Strips in Narrow Pavements",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=120&citation_for_view=xnMScfIAAAAJ:abG-DnoFyZgC",
+      "article_authors": "PT Savolainen, A Sharma, T Barrette, B Vafaei, TJ Kirsch",
+      "journal": "Iowa. Highway Research Board, 2017",
+      "total_citations": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4423321848184123228",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4423321848184123228&engine=google_scholar&hl=en",
+        "cites_id": "4423321848184123228"
+      },
+      "publication_year": 2017
+    },
+    {
+      "article_title": "Investigating the relationship between traffic incidents and public events: A case study",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=120&citation_for_view=xnMScfIAAAAJ:cFHS6HbyZ2cC",
+      "article_authors": "C Grimm, A Fristo, M Amin-Naseri, M Hong, A Sharma",
+      "journal": "2017 Systems and Information Engineering Design Symposium (SIEDS), 198-201, 2017",
+      "total_citations": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=4580273516695814527",
+        "serpapi_link": "https://serpapi.com/search.json?cites=4580273516695814527&engine=google_scholar&hl=en",
+        "cites_id": "4580273516695814527"
+      },
+      "publication_year": 2017
+    },
+    {
+      "article_title": "Platoon Dispersion Analysis Based on Diffusion Theory",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=120&citation_for_view=xnMScfIAAAAJ:PR6Y55bgFSsC",
+      "article_authors": "M Badhrudeen, H Thomas, LD Vanajakshi, A Sharma",
+      "journal": "MATEC Web of Conferences 124, 01003, 2017",
+      "total_citations": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=11626574177212612988",
+        "serpapi_link": "https://serpapi.com/search.json?cites=11626574177212612988&engine=google_scholar&hl=en",
+        "cites_id": "11626574177212612988"
+      },
+      "publication_year": 2017
+    },
+    {
+      "article_title": "Big-Data-Driven Traffic Surveillance System for Work Zone Monitoring and Decision Supporting",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=120&citation_for_view=xnMScfIAAAAJ:HoB7MX3m0LUC",
+      "article_authors": "S Wang, S Knickerbocker, A Sharma",
+      "journal": "Transportation Research Board 96th Annual MeetingTransportation Research Board, 2017",
+      "total_citations": {
+        "value": 2,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=16225564426926352997",
+        "serpapi_link": "https://serpapi.com/search.json?cites=16225564426926352997&engine=google_scholar&hl=en",
+        "cites_id": "16225564426926352997"
+      },
+      "publication_year": 2017
+    },
+    {
+      "article_title": "Automated Approach for Computer Vision-based Vehicle Movement Classification at Traffic Intersections",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=140&citation_for_view=xnMScfIAAAAJ:t7zJ5fGR-2UC",
+      "article_authors": "U Jana, JPD Karmakar, P Chakraborty, T Huang, A Sharma",
+      "journal": "Future Transportation 3 (2), 708-725, 2023",
+      "total_citations": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9554257356697966995",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9554257356697966995&engine=google_scholar&hl=en",
+        "cites_id": "9554257356697966995"
+      },
+      "publication_year": 2023
+    },
+    {
+      "article_title": "Driver Head Pose Detection From Naturalistic Driving Data",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=140&citation_for_view=xnMScfIAAAAJ:ruyezt5ZtCIC",
+      "article_authors": "W Chai, J Chen, J Wang, S Velipasalar, A Venkatachalapathy, ...",
+      "journal": "IEEE Transactions on Intelligent Transportation Systems, 2023",
+      "total_citations": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2774933297569791773",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2774933297569791773&engine=google_scholar&hl=en",
+        "cites_id": "2774933297569791773"
+      },
+      "publication_year": 2023
+    },
+    {
+      "article_title": "Generative semantic domain adaptation for perception in autonomous driving",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=140&citation_for_view=xnMScfIAAAAJ:KUbvn5osdkgC",
+      "article_authors": "A Mukherjee, A Joshi, A Sharma, C Hegde, S Sarkar",
+      "journal": "Journal of big data analytics in transportation 4 (2-3), 103-117, 2022",
+      "total_citations": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10801074609460597868",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10801074609460597868&engine=google_scholar&hl=en",
+        "cites_id": "10801074609460597868"
+      },
+      "publication_year": 2022
+    },
+    {
+      "article_title": "Intersection Identification Using Large-Scale Vehicle Trajectory Data",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=140&citation_for_view=xnMScfIAAAAJ:9vf0nzSNQJEC",
+      "article_authors": "T Huang, A Sharma",
+      "journal": "Proceedings of the Fifth International Conference of Transportation Research \u2026, 2022",
+      "total_citations": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10938531674434121740",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10938531674434121740&engine=google_scholar&hl=en",
+        "cites_id": "10938531674434121740"
+      },
+      "publication_year": 2022
+    },
+    {
+      "article_title": "Large-scale data-driven traffic sensor health monitoring",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=140&citation_for_view=xnMScfIAAAAJ:uJ-U7cs_P_0C",
+      "article_authors": "T Huang, P Chakraborty, A Sharma, C Hegde",
+      "journal": "Journal of big data analytics in transportation 3, 229-245, 2021",
+      "total_citations": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8714889956201869266",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8714889956201869266&engine=google_scholar&hl=en",
+        "cites_id": "8714889956201869266"
+      },
+      "publication_year": 2021
+    },
+    {
+      "article_title": "ndsintxn: An R Package for Extracting Information from Naturalistic Driving Data to Support Driver Behavior Analyses at Intersections",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=140&citation_for_view=xnMScfIAAAAJ:-_dYPAW6P2MC",
+      "article_authors": "A Barnwal, J Merickel, M Rizzo, L Riera-Garcia, S Sarkar, A Sharma",
+      "journal": "arXiv preprint arXiv:2108.04346, 2021",
+      "total_citations": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10430008220123462569",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10430008220123462569&engine=google_scholar&hl=en",
+        "cites_id": "10430008220123462569"
+      },
+      "publication_year": 2021
+    },
+    {
+      "article_title": "Automating Wrong-Way Driving Detection Using Existing CCTV Cameras",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=140&citation_for_view=xnMScfIAAAAJ:ML0RJ9NH7IQC",
+      "article_authors": "AK Haghighat, T Huang, A Sharma",
+      "journal": null,
+      "total_citations": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17348514379584035390",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17348514379584035390&engine=google_scholar&hl=en",
+        "cites_id": "17348514379584035390"
+      },
+      "publication_year": 2020
+    },
+    {
+      "article_title": "Before-After Study of Signal Timing Improvement Using Crowd-Sourced Data: A Case Study of Omaha",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=140&citation_for_view=xnMScfIAAAAJ:08ZZubdj9fEC",
+      "article_authors": "S Poddar, A Sharma, C Day, B Guy",
+      "journal": "International Conference on Transportation and Development 2020, 270-279, 2020",
+      "total_citations": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13764516563674666979",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13764516563674666979&engine=google_scholar&hl=en",
+        "cites_id": "13764516563674666979"
+      },
+      "publication_year": 2020
+    },
+    {
+      "article_title": "Assessing the Impact of Game Day Schedule and Opponents on Travel Patterns and Route Choice using Big Data Analytics",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=140&citation_for_view=xnMScfIAAAAJ:tOudhMTPpwUC",
+      "article_authors": "A Sharma, V Ahsani",
+      "journal": null,
+      "total_citations": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13387633705407949768",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13387633705407949768&engine=google_scholar&hl=en",
+        "cites_id": "13387633705407949768"
+      },
+      "publication_year": 2019
+    },
+    {
+      "article_title": "Recurrence Theory\u2013Based Platoon Analysis under Indian Traffic Conditions",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=140&citation_for_view=xnMScfIAAAAJ:SdhP9T11ey4C",
+      "article_authors": "M Badhrudeen, L Vanajakshi, SC Subramanian, A Sharma, H Thomas",
+      "journal": "Journal of Transportation Engineering, Part A: Systems 144 (8), 04018040, 2018",
+      "total_citations": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=17785368334997724405",
+        "serpapi_link": "https://serpapi.com/search.json?cites=17785368334997724405&engine=google_scholar&hl=en",
+        "cites_id": "17785368334997724405"
+      },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "Hybrid optimal control for time-efficient highway traffic management",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=140&citation_for_view=xnMScfIAAAAJ:D03iK_w7-QYC",
+      "article_authors": "Y Zu, C Liu, R Dai, A Sharma",
+      "journal": "2018 Annual American Control Conference (ACC), 4983-4988, 2018",
+      "total_citations": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=3039366477422103417",
+        "serpapi_link": "https://serpapi.com/search.json?cites=3039366477422103417&engine=google_scholar&hl=en",
+        "cites_id": "3039366477422103417"
+      },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "Iowa DOT Traffic Operations Open Data Service: User Guide and Software Requirements Specification",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=140&citation_for_view=xnMScfIAAAAJ:JQOojiI6XY0C",
+      "article_authors": "S Knickerbocker, VK Jagarlamudi, N Hawkins, A Sharma",
+      "journal": null,
+      "total_citations": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13893520498628127415",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13893520498628127415&engine=google_scholar&hl=en",
+        "cites_id": "13893520498628127415"
+      },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "Distributed traffic control for reduced fuel consumption and travel time in transportation networks",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=140&citation_for_view=xnMScfIAAAAJ:P5F9QuxV20EC",
+      "article_authors": "Y Zu, C Liu, R Dai, A Sharma, J Dong",
+      "journal": "Iowa State University. Institute for Transportation, 2018",
+      "total_citations": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=9016886883479202215",
+        "serpapi_link": "https://serpapi.com/search.json?cites=9016886883479202215&engine=google_scholar&hl=en",
+        "cites_id": "9016886883479202215"
+      },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "The Software-Based Challenges Faced by Traffic Incident Managers",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=140&citation_for_view=xnMScfIAAAAJ:1yQoGdGgb4wC",
+      "article_authors": "Q Monaghan, J Walton, S Gilbert, A Sharma",
+      "journal": "Transportation Research Board 97th Annual MeetingTransportation Research Board, 2018",
+      "total_citations": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=10825865891743566325",
+        "serpapi_link": "https://serpapi.com/search.json?cites=10825865891743566325&engine=google_scholar&hl=en",
+        "cites_id": "10825865891743566325"
+      },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "Implementing Big Data Quality Assurance with Visualization Tools",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=140&citation_for_view=xnMScfIAAAAJ:ldfaerwXgEUC",
+      "article_authors": "T Huang, S Knickerbocker, A Sharma, N Hawkins",
+      "journal": "Transportation Research Board 97th Annual MeetingTransportation Research Board, 2018",
+      "total_citations": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=2986915274685348652",
+        "serpapi_link": "https://serpapi.com/search.json?cites=2986915274685348652&engine=google_scholar&hl=en",
+        "cites_id": "2986915274685348652"
+      },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "Platoon Dispersion Modeling under Indian Traffic Conditions",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=140&citation_for_view=xnMScfIAAAAJ:ye4kPcJQO24C",
+      "article_authors": "L Vanajakshi, A Sharma, SC Subramanian, M Badhrudeen, H Thomas",
+      "journal": "Transportation Research Board 96th Annual MeetingTransportation Research Board, 2017",
+      "total_citations": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=8411316096786657328",
+        "serpapi_link": "https://serpapi.com/search.json?cites=8411316096786657328&engine=google_scholar&hl=en",
+        "cites_id": "8411316096786657328"
+      },
+      "publication_year": 2017
+    },
+    {
+      "article_title": "Leading Pedestrian Interval Implementation as a Marginal Costs and Benefits Problem",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=140&citation_for_view=xnMScfIAAAAJ:JoZmwDi-zQgC",
+      "article_authors": "A Sharma, E Smaglik, S Kothuri, O Smith, P Koonce, T Huang",
+      "journal": null,
+      "total_citations": {
+        "value": 1,
+        "link": "https://scholar.google.com/scholar?oi=bibs&hl=en&cites=13729579281116830651",
+        "serpapi_link": "https://serpapi.com/search.json?cites=13729579281116830651&engine=google_scholar&hl=en",
+        "cites_id": "13729579281116830651"
+      },
+      "publication_year": 2017
+    },
+    {
+      "article_title": "MobiScout: A Scalable Cloud-Based Driving and Activity Monitoring Platform Featuring an IOS App and a WatchOS Extension",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=160&citation_for_view=xnMScfIAAAAJ:5qfkUJPXOUwC",
+      "article_authors": "KK Adu-Gyamfi, K Ahmadi-Dehrashid, YO Adu-Gyamfi, P Gunaratne, ...",
+      "journal": "arXiv preprint arXiv:2308.05698, 2023",
+      "total_citations": { "value": null },
+      "publication_year": 2023
+    },
+    {
+      "article_title": "Crash Frequency Minimization with Severity Mitigation in Road Geometric Design Using Chance Constraint Programming Optimization",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=160&citation_for_view=xnMScfIAAAAJ:0N-VGjzr574C",
+      "article_authors": "W Li, M Zhang, A Sharma",
+      "journal": "Journal of Advanced Transportation 2023, 2023",
+      "total_citations": { "value": null },
+      "publication_year": 2023
+    },
+    {
+      "article_title": "Vision-Language Models can Identify Distracted Driver Behavior from Naturalistic Videos",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=160&citation_for_view=xnMScfIAAAAJ:edDO8Oi4QzsC",
+      "article_authors": "MZ Hasan, J Chen, J Wang, A Joshi, S Velipasalar, C Hegde, A Sharma, ...",
+      "journal": "arXiv preprint arXiv:2306.10159, 2023",
+      "total_citations": { "value": null },
+      "publication_year": 2023
+    },
+    {
+      "article_title": "Opportunities and Challenges in Vehicle Tracking: A Computer Vision-Based Vehicle Tracking System",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=160&citation_for_view=xnMScfIAAAAJ:Dip1O2bNi0gC",
+      "article_authors": "A Zarindast, A Sharma",
+      "journal": "Data Science for Transportation 5 (1), 3, 2023",
+      "total_citations": { "value": null },
+      "publication_year": 2023
+    },
+    {
+      "article_title": "Deep Insight: A Cloud Based Big Data Analytics Platform For Naturalistic Driving Studies Data Management, Analytics, and Automated Annotations",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=160&citation_for_view=xnMScfIAAAAJ:hCrLmN-GePgC",
+      "article_authors": "A Venkatachalapathy, MS Rahman, A Raj, J Merickel, A Sharma, J Wang, ...",
+      "journal": "International Journal of Automotive Engineering 14 (3), 66-76, 2023",
+      "total_citations": { "value": null },
+      "publication_year": 2023
+    },
+    {
+      "article_title": "Right-Turn-on-Red Site Considerations and Capacity Analysis: Practitioner's Guide",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=160&citation_for_view=xnMScfIAAAAJ:ClCfbGk0d_YC",
+      "article_authors": "CM Day, J Shaw, A Haghighat, A Sharma, AM Emtenan, P Hawley, ...",
+      "journal": "NCHRP Research Report, 2023",
+      "total_citations": { "value": null },
+      "publication_year": 2023
+    },
+    {
+      "article_title": "A naturalistic study assessing the impact of daytime running lights and vehicle passing events on cyclist\u2019s physiological stress",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=160&citation_for_view=xnMScfIAAAAJ:VaXvl8Fpj5cC",
+      "article_authors": "A Venkatachalapathy, C Hamann, S Spears, EA Shirtcliff, A Sharma",
+      "journal": "Transportation Research Interdisciplinary Perspectives 16, 100703, 2022",
+      "total_citations": { "value": null },
+      "publication_year": 2022
+    },
+    {
+      "article_title": "Glucose Control, Sleep, Obesity, and Real-World Driver Safety at Stop Intersections in Type 1 Diabetes",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=160&citation_for_view=xnMScfIAAAAJ:g3aElNc5_aQC",
+      "article_authors": "A Barnwal, A Sharma, L Riera-Garcia, K Ozcan, S Davami, S Sarkar, ...",
+      "journal": "arXiv preprint arXiv:2207.07341, 2022",
+      "total_citations": { "value": null },
+      "publication_year": 2022
+    },
+    {
+      "article_title": "Assessing the Impact of Older Driver Visual and Cognitive Impairment on Intersection Stopping Behavior (P17-3.002)",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=160&citation_for_view=xnMScfIAAAAJ:Z5m8FVwuT1cC",
+      "article_authors": "G Basulto-Elias, A Barnwal, A Sharma, J Merickel, M Rizzo, S Hallmark",
+      "journal": "Neurology 98 (18 Supplement), 2022",
+      "total_citations": { "value": null },
+      "publication_year": 2022
+    },
+    {
+      "article_title": "A Federated Multimodal Simulation Environment for Studying Interactions between Different Modes of Travel",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=160&citation_for_view=xnMScfIAAAAJ:WZBGuue-350C",
+      "article_authors": "J Stonewall, M Dorneich, E Winer, J Miller, A Kohl, V Kalivarapu, S Gilbert, ...",
+      "journal": null,
+      "total_citations": { "value": null },
+      "publication_year": 2022
+    },
+    {
+      "article_title": "DriveCLIP: Zero-shot transfer for distracted driving activity understanding using CLIP",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=160&citation_for_view=xnMScfIAAAAJ:kz9GbA2Ns4gC",
+      "article_authors": "MZ Hasan, A Joshi, M Rahman, A Venkatachalapathy, A Sharma, ...",
+      "journal": null,
+      "total_citations": { "value": null },
+      "publication_year": 2022
+    },
+    {
+      "article_title": "Adaptive traffic management system",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=180&citation_for_view=xnMScfIAAAAJ:zLWjf1WUPmwC",
+      "article_authors": "A Sharma",
+      "journal": "US Patent App. 17/128,644, 2021",
+      "total_citations": { "value": null },
+      "publication_year": 2021
+    },
+    {
+      "article_title": "Developing an Architecture to Integrate Safety, Mobility, and Traffic Data",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=180&citation_for_view=xnMScfIAAAAJ:epqYDVWIO7EC",
+      "article_authors": "S Knickerbocker, S Bhagat, Z Hans, A Sharma",
+      "journal": null,
+      "total_citations": { "value": null },
+      "publication_year": 2021
+    },
+    {
+      "article_title": "EVALUATING ASCT OPERATIONS FOR DODGE STREET CORRIDOR",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=180&citation_for_view=xnMScfIAAAAJ:tzM49s52ZIMC",
+      "article_authors": "S Poddar, A Zarindast, A Sharma, C Day",
+      "journal": null,
+      "total_citations": { "value": null },
+      "publication_year": 2021
+    },
+    {
+      "article_title": "Evaluating ASCT Operations for Dodge Street Corridor",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=180&citation_for_view=xnMScfIAAAAJ:_Re3VWB3Y0AC",
+      "article_authors": "A Sharma, S Poddar, A Zarindast, C Day",
+      "journal": "Iowa State University. Center for Transportation Research and Education, 2021",
+      "total_citations": { "value": null },
+      "publication_year": 2021
+    },
+    {
+      "article_title": "IMPLEMENTING COMPREHENSIVE CLOUD-BASED PLATFORMS FOR NATURALISTIC DRIVING STUDIES",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=180&citation_for_view=xnMScfIAAAAJ:VLnqNzywnoUC",
+      "article_authors": "A Venkatachalapathy, A Raj, J Merickel, A Sharma",
+      "journal": null,
+      "total_citations": { "value": null },
+      "publication_year": 2021
+    },
+    {
+      "article_title": "Developing a Research-Grade Iowa Work Zone Database",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=180&citation_for_view=xnMScfIAAAAJ:EkHepimYqZsC",
+      "article_authors": "S Knickerbocker, VR Mouli, N Hawkins, A Sharma",
+      "journal": null,
+      "total_citations": { "value": null },
+      "publication_year": 2020
+    },
+    {
+      "article_title": "Drone docking system",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=180&citation_for_view=xnMScfIAAAAJ:7T2F9Uy0os0C",
+      "article_authors": "A Sharma",
+      "journal": "US Patent US10675990B2, 2020",
+      "total_citations": { "value": null },
+      "publication_year": 2020
+    },
+    {
+      "article_title": "DEEP LEARNING ENABLED LONG TERM TRAFFIC SPEED PREDICTION USING HISTORICAL TRAFFIC SPEED AND PREDICTED WEATHER",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=180&citation_for_view=xnMScfIAAAAJ:nrtMV_XWKgEC",
+      "article_authors": "S Wang, S Poddar, P Chakraborty, N Hawkins",
+      "journal": "Transportation Research, 2020",
+      "total_citations": { "value": null },
+      "publication_year": 2020
+    },
+    {
+      "article_title": "The 4th AI city challenge",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=180&citation_for_view=xnMScfIAAAAJ:rO6llkc54NcC",
+      "article_authors": "M Naphade, S Wang, DC Anastasiu, Z Tang, MC Chang, X Yang, L Zheng, ...",
+      "journal": "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern \u2026, 2020",
+      "total_citations": { "value": null },
+      "publication_year": 2020
+    },
+    {
+      "article_title": "Evaluation of Speed Limit Policy Impacts on Iowa Highways",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=180&citation_for_view=xnMScfIAAAAJ:_xSYboBqXhAC",
+      "article_authors": "PT Savolainen, CM Day, A Sharma, JR Warner, C Zhou",
+      "journal": null,
+      "total_citations": { "value": null },
+      "publication_year": 2019
+    },
+    {
+      "article_title": "Real-World Driver Intersection Behavior is Linked to Visual Decline in Older Drivers without Dementia",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=200&citation_for_view=xnMScfIAAAAJ:tKAzc9rXhukC",
+      "article_authors": "A Barnwal, J Merickel, L Riera-Garcia, K Ozcan, S Sarkar, A Sharma, ...",
+      "journal": "ANNALS OF NEUROLOGY 86, S243-S243, 2019",
+      "total_citations": { "value": null },
+      "publication_year": 2019
+    },
+    {
+      "article_title": "Automating Near-Miss Crash Detection Using Existing Traffic Cameras",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=200&citation_for_view=xnMScfIAAAAJ:vDijr-p_gm4C",
+      "article_authors": "A Sharma, P Chakraborty, N Hawkins, S Knickerbocker",
+      "journal": null,
+      "total_citations": { "value": null },
+      "publication_year": 2019
+    },
+    {
+      "article_title": "A Cyberinfrastructure for Big Data Transportation Engineering",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=200&citation_for_view=xnMScfIAAAAJ:lmc2jWPfTJgC",
+      "article_authors": "A Sharma, MJ Islam, H Rajan",
+      "journal": null,
+      "total_citations": { "value": null },
+      "publication_year": 2019
+    },
+    {
+      "article_title": "Evaluating the Reliability, Coverage, and Added Value of Crowdsourced Traffic Incident Reports from Waze",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=200&citation_for_view=xnMScfIAAAAJ:XD-gHx7UXLsC",
+      "article_authors": "A Sharma, M Amin-Naseri, P Chakraborty, S Gilbert, M Hong",
+      "journal": null,
+      "total_citations": { "value": null },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "ASSESSING THE IMPACT OF ROADWAY CHARACTERISTICS ON OLDER DRIVERS USING NATURALISTIC DRIVING DATA",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=200&citation_for_view=xnMScfIAAAAJ:g5m5HwL7SMYC",
+      "article_authors": "S Wang, A Sharma, J Merickel, M Rizzo",
+      "journal": "Innovation in Aging 2 (suppl_1), 830-830, 2018",
+      "total_citations": { "value": null },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "Predicting Freeway Work Zone Capacity Distribution Based on Logistic Speed-Density Models",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=200&citation_for_view=xnMScfIAAAAJ:9Nmd_mFXekcC",
+      "article_authors": "A Sharma, C Lu, J Dong, T Huang, S Knickerbocker",
+      "journal": null,
+      "total_citations": { "value": null },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "Vision-Based Traffic Conflict Detection of Signalized Intersections",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=200&citation_for_view=xnMScfIAAAAJ:tuHXwOkdijsC",
+      "article_authors": "A Sharma",
+      "journal": "Midwest Transportation Center, 2018",
+      "total_citations": { "value": null },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "Developing an Optimized UI for Traffic Incident Managers",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=200&citation_for_view=xnMScfIAAAAJ:ZuybSZzF8UAC",
+      "article_authors": "A Helgerson, J Walton, C Loya, C Kawell, K Atwell, Q Monaghan, L Ahuja, ...",
+      "journal": "Proceedings of the Human Factors and Ergonomics Society Annual Meeting 62 (1 \u2026, 2018",
+      "total_citations": { "value": null },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "Analysis of Dynamic Advisory Messaging\u2013Phase II",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=200&citation_for_view=xnMScfIAAAAJ:pqnbT2bcN3wC",
+      "article_authors": "S Knickerbocker, S Wang, N Hawkins, A Sharma, Z Hans",
+      "journal": null,
+      "total_citations": { "value": null },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "Portable Multi-Sensor System for Intersection Safety Performance Assessment",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=200&citation_for_view=xnMScfIAAAAJ:SeFeTyx0c_EC",
+      "article_authors": "A Sharma, P Chakraborty, S Wang, T Huang",
+      "journal": "Iowa State University. Institute for Transportation, 2018",
+      "total_citations": { "value": null },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "Research Article Predicting Freeway Work Zone Capacity Distribution Based on Logistic Speed-Density Models",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=200&citation_for_view=xnMScfIAAAAJ:SpbeaW3--B0C",
+      "article_authors": "C Lu, J Dong, A Sharma, T Huang, S Knickerbocker",
+      "journal": "Work 18, 22, 2018",
+      "total_citations": { "value": null },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "Operational Impacts of Rumble Strip Installations on Narrow Pavements",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=200&citation_for_view=xnMScfIAAAAJ:_Ybze24A_UAC",
+      "article_authors": "B Vafaei, TP Barrette, TJ Kirsch, PT Savolainen, A Sharma",
+      "journal": "Transportation Research Board 97th Annual MeetingTransportation Research Board, 2018",
+      "total_citations": { "value": null },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "Crash-Based Guidance for Rumble Strip Installation on Narrow Pavements",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=200&citation_for_view=xnMScfIAAAAJ:eq2jaN3J8jMC",
+      "article_authors": "B Vafaei, TP Barrette, TJ Kirsch, PT Savolainen, A Sharma",
+      "journal": "Transportation Research Board 97th Annual MeetingTransportation Research Board, 2018",
+      "total_citations": { "value": null },
+      "publication_year": 2018
+    },
+    {
+      "article_title": "Travel time observations using bluetooth MAC address matching: a case study on the Rajiv Gandhi roadway: Chennai, India. Purdue University, West Lafayette, Indiana",
+      "article_link": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=xnMScfIAAAAJ&cstart=200&citation_for_view=xnMScfIAAAAJ:i2xiXl-TujoC",
+      "article_authors": "SM Remias, AM Hainen, JK Mathew, L Vanajakshi, A Sharma, ...",
+      "journal": null,
+      "total_citations": { "value": null },
+      "publication_year": 2017
+    }
+  ],
+  "_id_md5": "271e01655f0598f0188ddcd5d8a16fd9",
+  "source": null
+}
