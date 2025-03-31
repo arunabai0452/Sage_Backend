@@ -1,0 +1,32 @@
+name: Deploy Flask Backend
+
+on:
+  push:
+    branches:
+      - main  # Trigger deployment on the main branch
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest  # Use the latest version of Ubuntu
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2  # Checkout the repository
+
+    - name: Set up Python
+      uses: actions/setup-python@v2  # Set up Python environment
+      with:
+        python-version: '3.9'  # Adjust to the version you need
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip  # Upgrade pip
+        pip install -r requirements.txt  # Install dependencies
+
+    - name: Deploy to Heroku (or another cloud service)
+      run: |
+        curl https://cli-assets.heroku.com/install.sh | sh
+        heroku login -i  # Use your Heroku credentials here
+        heroku create my-flask-app  # Replace with your Heroku app name
+        git remote add heroku https://git.heroku.com/my-flask-app.git  # Replace with your app's Git URL
+        git push heroku main  # Deploy to Heroku
