@@ -14,11 +14,10 @@ sentence-transformers==4.0.1
 regex==2024.11.6
 numpy==2.2.3
 pandas==2.2.3
-re==2024.11.6
 beautifulsoup4==4.13.3
 json5==0.10.0
 jsonschema==4.23.0
 pyyaml==6.0.2
-protobuf==5.29.4
+protobuf==5.0.0  # Adjusted to a version that works with Python 3.11
 requests==2.32.3
 werkzeug==3.1.3
